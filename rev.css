@@ -1,0 +1,18 @@
+.order{
+					width: 223px;
+					hight: 223px;
+					float: left;
+					margin: 10px 10px 10px 10px;}
+.order h3{
+					color:red;
+					text: bold;
+					font-family: Arial;
+					font-style:italic;
+		}
+.order img{
+					width:150px;
+					border:1px solid red;
+		}
+body {
+    background-color: lightblue; 
+  }
